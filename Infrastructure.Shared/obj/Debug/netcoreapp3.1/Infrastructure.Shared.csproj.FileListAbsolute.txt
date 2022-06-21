@@ -1,0 +1,15 @@
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Shared\bin\Debug\netcoreapp3.1\Infrastructure.Shared.deps.json
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Shared\bin\Debug\netcoreapp3.1\Infrastructure.Shared.dll
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Shared\bin\Debug\netcoreapp3.1\Infrastructure.Shared.pdb
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Shared\bin\Debug\netcoreapp3.1\Application.dll
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Shared\bin\Debug\netcoreapp3.1\Domain.dll
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Shared\bin\Debug\netcoreapp3.1\Application.pdb
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Shared\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Shared\obj\Debug\netcoreapp3.1\Infrastructure.Shared.csproj.AssemblyReference.cache
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Shared\obj\Debug\netcoreapp3.1\Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Shared\obj\Debug\netcoreapp3.1\Infrastructure.Shared.AssemblyInfoInputs.cache
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Shared\obj\Debug\netcoreapp3.1\Infrastructure.Shared.AssemblyInfo.cs
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Shared\obj\Debug\netcoreapp3.1\Infrastructure.Shared.csproj.CoreCompileInputs.cache
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Shared\obj\Debug\netcoreapp3.1\Infrastructure.Shared.dll
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Shared\obj\Debug\netcoreapp3.1\Infrastructure.Shared.pdb
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Shared\obj\Debug\netcoreapp3.1\Infrastructure.Shared.csproj.CopyComplete

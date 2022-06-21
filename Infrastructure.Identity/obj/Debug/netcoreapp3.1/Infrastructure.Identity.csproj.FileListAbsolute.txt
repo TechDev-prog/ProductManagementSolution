@@ -1,0 +1,17 @@
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Identity\bin\Debug\netcoreapp3.1\Infrastructure.Identity.deps.json
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Identity\bin\Debug\netcoreapp3.1\Infrastructure.Identity.runtimeconfig.json
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Identity\bin\Debug\netcoreapp3.1\Infrastructure.Identity.runtimeconfig.dev.json
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Identity\bin\Debug\netcoreapp3.1\Infrastructure.Identity.dll
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Identity\bin\Debug\netcoreapp3.1\Infrastructure.Identity.pdb
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Identity\bin\Debug\netcoreapp3.1\Application.dll
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Identity\bin\Debug\netcoreapp3.1\Domain.dll
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Identity\bin\Debug\netcoreapp3.1\Application.pdb
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Identity\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Identity\obj\Debug\netcoreapp3.1\Infrastructure.Identity.csproj.AssemblyReference.cache
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Identity\obj\Debug\netcoreapp3.1\Infrastructure.Identity.GeneratedMSBuildEditorConfig.editorconfig
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Identity\obj\Debug\netcoreapp3.1\Infrastructure.Identity.AssemblyInfoInputs.cache
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Identity\obj\Debug\netcoreapp3.1\Infrastructure.Identity.AssemblyInfo.cs
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Identity\obj\Debug\netcoreapp3.1\Infrastructure.Identity.csproj.CoreCompileInputs.cache
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Identity\obj\Debug\netcoreapp3.1\Infrastructure.Identity.dll
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Identity\obj\Debug\netcoreapp3.1\Infrastructure.Identity.pdb
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Identity\obj\Debug\netcoreapp3.1\Infrastructure.Identity.genruntimeconfig.cache

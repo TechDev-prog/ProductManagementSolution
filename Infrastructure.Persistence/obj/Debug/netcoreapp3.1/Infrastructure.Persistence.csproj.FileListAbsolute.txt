@@ -1,0 +1,15 @@
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Persistence\obj\Debug\netcoreapp3.1\Infrastructure.Persistence.csproj.AssemblyReference.cache
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Persistence\obj\Debug\netcoreapp3.1\Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Persistence\obj\Debug\netcoreapp3.1\Infrastructure.Persistence.AssemblyInfoInputs.cache
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Persistence\obj\Debug\netcoreapp3.1\Infrastructure.Persistence.AssemblyInfo.cs
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Persistence\obj\Debug\netcoreapp3.1\Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Persistence\bin\Debug\netcoreapp3.1\Infrastructure.Persistence.deps.json
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Persistence\bin\Debug\netcoreapp3.1\Infrastructure.Persistence.dll
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Persistence\bin\Debug\netcoreapp3.1\Infrastructure.Persistence.pdb
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Persistence\bin\Debug\netcoreapp3.1\Application.dll
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Persistence\bin\Debug\netcoreapp3.1\Domain.dll
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Persistence\bin\Debug\netcoreapp3.1\Application.pdb
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Persistence\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Persistence\obj\Debug\netcoreapp3.1\Infrastructure.Persistence.dll
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Persistence\obj\Debug\netcoreapp3.1\Infrastructure.Persistence.pdb
+F:\Manoj\CleanArchitecture.WebApi-master\Infrastructure.Persistence\obj\Debug\netcoreapp3.1\Infrastructure.Persistence.csproj.CopyComplete

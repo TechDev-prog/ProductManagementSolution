@@ -1,0 +1,12 @@
+F:\Manoj\CleanArchitecture.WebApi-master\Application\bin\Debug\netstandard2.1\Application.deps.json
+F:\Manoj\CleanArchitecture.WebApi-master\Application\bin\Debug\netstandard2.1\Application.dll
+F:\Manoj\CleanArchitecture.WebApi-master\Application\bin\Debug\netstandard2.1\Application.pdb
+F:\Manoj\CleanArchitecture.WebApi-master\Application\bin\Debug\netstandard2.1\Domain.dll
+F:\Manoj\CleanArchitecture.WebApi-master\Application\bin\Debug\netstandard2.1\Domain.pdb
+F:\Manoj\CleanArchitecture.WebApi-master\Application\obj\Debug\netstandard2.1\Application.csproj.AssemblyReference.cache
+F:\Manoj\CleanArchitecture.WebApi-master\Application\obj\Debug\netstandard2.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Manoj\CleanArchitecture.WebApi-master\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+F:\Manoj\CleanArchitecture.WebApi-master\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+F:\Manoj\CleanArchitecture.WebApi-master\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+F:\Manoj\CleanArchitecture.WebApi-master\Application\obj\Debug\netstandard2.1\Application.dll
+F:\Manoj\CleanArchitecture.WebApi-master\Application\obj\Debug\netstandard2.1\Application.pdb
